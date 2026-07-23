@@ -91,24 +91,6 @@ An educational game developed in **C#** to make programming concepts more engagi
 
 ---
 
-# 📫 Let's Connect
-
-Thanks for taking the time to explore my GitHub profile.
-
-This is where I share my learning journey, programming projects, and the ideas I'm passionate about. I'm always looking for opportunities to grow, challenge myself, and build something meaningful.
-
-If you enjoyed exploring my work, feel free to follow my journey as I continue learning and creating.
-
-Happy coding! 🚀
-
-
-
-
-
-
-
-
-
 
 
 <div align="center">
@@ -265,7 +247,13 @@ Presented at the **Student Informatics Conference at NOESIS**, showcasing how te
 </p>
 ---
 
+# 🐍 Coding Activity
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ChrysovalantouGaniti/ChrysovalantouGaniti/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
