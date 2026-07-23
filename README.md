@@ -76,11 +76,6 @@ An educational game developed in **C#** to make programming concepts more engagi
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysovalantouGaniti&theme=tokyo-night"/>
-</p>
 
 ---
 
@@ -267,6 +262,12 @@ Presented at the **Student Informatics Conference at NOESIS**, showcasing how te
 🎮 Creating interactive applications
 
 ---
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysovalantouGaniti&theme=tokyo-night"/>
+</p>
+---
 
 # 🧭 My Journey
 
@@ -288,17 +289,7 @@ Presented at the **Student Informatics Conference at NOESIS**, showcasing how te
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChrysovalantouGaniti&show_icons=true&hide_border=true&title_color=0F4C81&icon_color=6B7D3C&text_color=333333"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&hide_border=true&title_color=0F4C81&text_color=333333"/>
-
-</div>
 
 ---
 
