@@ -85,7 +85,6 @@ A C# educational game designed to make learning interactive and enjoyable while 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
----
 
 ## 📈 Contribution Graph
 
