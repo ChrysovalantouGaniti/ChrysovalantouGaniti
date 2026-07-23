@@ -1,17 +1,16 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=220&section=header&text=Chrysovalantou%20Ganiti&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-<h1>👋 Hi, I'm Chrysovalantou Ganiti</h1>
+# 👋 Welcome to my GitHub!
 
-<h3>
-💻 Student Developer • 🧬 Future Computational Biology Explorer • 🤖 AI & Technology Enthusiast
-</h3>
+### 💻 Student Developer • 🧬 Future Computational Biology Explorer • 🤖 AI & Technology Enthusiast
 
 <p>
-<img src="https://img.shields.io/badge/PCEP-Certified%20Python%20Programmer-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-With%20Code-0F4C81?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Exploring-Biology%20%2B%20Technology-6B7D3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Goal-Innovation%20%26%20Impact-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dreaming-Scientific%20Innovation-0F4C81?style=for-the-badge"/>
 </p>
 
 </div>
@@ -20,75 +19,54 @@
 
 # 🌿 About Me
 
-Hello! I'm **Chrysovalantou Ganiti**, a student developer from **Thessaloniki, Greece**, passionate about using technology to solve meaningful problems.
+Hello! I'm **Chrysovalantou Ganiti**, a student developer passionate about combining **technology, science, and creativity** to create solutions that can make a positive impact.
 
-I enjoy combining:
+I believe that the most powerful innovations happen when different fields come together.
 
-💻 Programming  
-🧬 Biology & Life Sciences  
-🤖 Artificial Intelligence  
-🔬 Scientific Research  
-🚀 Innovation  
+My passion is not only programming — I am fascinated by **biology, life sciences, and the possibilities created when biology meets computer science**.
 
-I believe that the greatest discoveries happen when different fields connect.
+🧬 My vision is to explore the connection between:
 
-My goal is to explore the intersection between **computer science and biology**, using technology to better understand life, improve healthcare, and contribute to future medical innovations.
+💻 Programming
+🧬 Biology & Genetics
+🤖 Artificial Intelligence
+🔬 Scientific Research
+💊 Future Medicine
 
-> "Innovation begins when curiosity connects different worlds."
+I want to contribute to a future where technology helps humanity by improving healthcare, discovering new approaches to medicine, and creating solutions that make the world better.
+
+> "The future belongs to those who connect knowledge from different worlds."
+
+---
+
+# 🧠 My Interests
+
+🌿 Software Development
+🎮 Game Development
+🤖 Artificial Intelligence
+🔐 Cybersecurity
+🧬 Computational Biology
+🧪 Biotechnology
+💊 Medical Innovation
+🚀 Technology for Social Impact
 
 ---
 
 # 🧬 Future Vision
 
-My dream is to work at the intersection of **biology, programming, and artificial intelligence**.
+My long-term goal is to work at the intersection of **biology and technology**.
 
-I am interested in exploring:
+I dream of using programming and artificial intelligence to help solve some of the biggest challenges in healthcare.
 
-🧬 Computational Biology  
-🤖 AI for Scientific Research  
-💊 Future Medicine & Healthcare Innovation  
-🔬 Biological Data Analysis  
-🌍 Technology that improves human life  
+Areas that inspire me:
 
-I want to contribute to the development of new approaches in medicine and help create solutions that make the world healthier and better.
+🧬 Understanding biological systems through technology
+🤖 Using AI for scientific discoveries
+💊 Developing advanced and personalized medical solutions
+🔬 Supporting research through computational tools
+🌍 Creating innovations that improve people's lives
 
----
-
-# 🏆 Achievements
-
-- 🥇 **PCEP – Certified Entry-Level Python Programmer**
-- 🎤 Presenter at the **18th Student Conference of Informatics (NOESIS)**
-- 🎮 Developed an educational Unity game using **C#**
-- 📚 Academic Excellence — **19.7/20 average**
-- 📊 Approximate GPA Equivalent — **3.94/4.0**
-- 🎙️ Public Speaking Certificate
-- 👥 Leadership experience through student initiatives
-
----
-
-# 🎓 Education & Certifications
-
-## 📚 Academic Excellence
-
-⭐ Academic Average: **19.7 / 20**  
-📊 Approximate GPA Equivalent: **3.94 / 4.0**
-
-Strong academic interests in:
-
-🔢 Mathematics  
-⚛️ Physics  
-💻 Computer Science  
-🧬 Biology & Life Sciences  
-
----
-
-## 🌍 Language Certifications
-
-🇺🇸 **Michigan English Proficiency Certificate — C2**
-
-🇬🇧 **Cambridge English Lower Certificate — B2**
-
-🇩🇪 **ÖSD German Certificate — A2**
+I believe that the next generation of breakthroughs will come from people who can combine science, engineering, and creativity.
 
 ---
 
@@ -96,7 +74,21 @@ Strong academic interests in:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,unity,git,github,vscode,visualstudio"/>
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs"/>
+
+<br><br>
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=unity,git,github,visualstudio"/>
+
+<br><br>
+
+## Exploring
+
+<img src="https://skillicons.dev/icons?i=ai,linux"/>
 
 </div>
 
@@ -109,113 +101,79 @@ Strong academic interests in:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Unity%202D-Educational%20Game-6B7D3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Language-C%23-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Created-With%20C%23-0F4C81?style=for-the-badge"/>
 
 </div>
 
-**Trapped Inside The Code** is an educational 2D platformer game designed to make programming concepts more interactive and enjoyable.
+**Trapped Inside The Code** is an educational 2D platformer game created to make programming concepts more interactive and enjoyable.
 
 The project combines:
 
-🎮 Game Development  
-💻 Programming Education  
-🤖 Artificial Intelligence Concepts  
-🔐 Cybersecurity Awareness  
+🎮 Game Development
+💻 Programming Education
+🤖 Artificial Intelligence Concepts
+🔐 Cybersecurity Awareness
 
 ### ✨ Features
 
-✅ Five educational levels  
-✅ Programming challenges and puzzles  
-✅ Python learning concepts  
-✅ Interactive missions  
-✅ Developed with Unity and C#
+✅ Five educational levels
+✅ Programming challenges and puzzles
+✅ Python learning concepts
+✅ Interactive missions
+✅ Developed using Unity and C#
 
-Presented at the **Student Informatics Conference at NOESIS**, showing how technology can transform learning.
-
----
-
-# 🌱 Currently Learning
-
-🌱 Advanced Python programming  
-🤖 Artificial Intelligence  
-🧬 Computational biology concepts  
-🔐 Cybersecurity  
-🎮 Interactive application development  
-📚 Software engineering principles  
+Presented at the **Student Informatics Conference at NOESIS**, showcasing how technology can transform learning.
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 Achievements
 
-🚀 Create high-quality software projects
-
-💻 Improve advanced programming skills
-
-🤖 Explore Artificial Intelligence applications
-
-🧬 Learn more about biology and biotechnology
-
-🌍 Contribute to open-source communities
-
-🔬 Build technology that creates positive impact
+| 🏅 Achievement             | 🌟 Description                                  |
+| -------------------------- | ----------------------------------------------- |
+| 🎮 Game Creator            | Developed an educational Unity game             |
+| 💻 Programmer              | Created projects using Python, C++, and C#      |
+| 🏛️ Conference Participant | Presented technology projects at student events |
+| 🧠 Continuous Learner      | Exploring AI, biology, and advanced computing   |
 
 ---
 
-# 📈 GitHub Statistics
+# 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChrysovalantouGaniti&show_icons=true&hide_border=true&title_color=0F4C81&icon_color=6B7D3C&text_color=333333"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&hide_border=true&title_color=0F4C81&text_color=333333"/>
-
-</div>
+🌱 Improving software development skills
+🤖 Exploring Artificial Intelligence
+🧬 Learning more about biology and computational approaches
+🔐 Studying cybersecurity concepts
+🎮 Creating interactive applications
 
 ---
+# 📈 Contribution Graph
 
-# 🐍 My Coding Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ChrysovalantouGaniti/ChrysovalantouGaniti/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysovalantouGaniti&theme=tokyo-night"/>
+</p>
 ---
 
-# 🌍 Languages
 
-🇬🇷 Greek — Native
-
-🇬🇧 English — Michigan C2 & Cambridge B2
-
-🇩🇪 German — ÖSD A2
 
 ---
 
 # 💙 Let's Connect!
 
-I enjoy connecting with people interested in:
+I love meeting people who are passionate about:
 
-💻 Technology  
-🧬 Science  
-🤖 Artificial Intelligence  
-🚀 Innovation  
+💻 Technology
+🧬 Science
+🤖 Artificial Intelligence
+🚀 Innovation
 
-Feel free to explore my projects and follow my journey as I continue learning and creating.
-
-<div align="center">
-
-✨ Let's build the future together! ✨
-
-</div>
-
----
+Whether you want to discuss ideas, projects, programming, or the future of technology — feel free to say hello!
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/GitHub-ChrysovalantouGaniti-0F4C81?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br>
+
+✨ Let's create something meaningful together! ✨
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6B7D3C&height=120&section=footer"/>
 
-</div>
