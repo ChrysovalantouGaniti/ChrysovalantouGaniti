@@ -1,117 +1,106 @@
 <h1 align="center">Hi 👋, I'm Chrysovalantou Ganiti</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | PCEP Certified Python Programmer | Student Research Presenter | Lifelong Learner</h3>
 
 <p align="center">
-Passionate about transforming ideas into software through creativity, logic, and continuous learning.
+  <b>🚀 Aspiring Software Engineer • 🐍 PCEP Certified Python Programmer • 🎮 C# Developer • 🎤 Student Conference Presenter</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChrysovalantouGaniti">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Software.;Always+Learning.;Building+Projects.;Future+Computer+Scientist." alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a highly motivated student from **Thessaloniki, Greece** with a passion for **software engineering, artificial intelligence, mathematics, and innovation**.
+🎓 Secondary school student from **Thessaloniki, Greece**
 
-I love solving challenging problems, creating meaningful software, and constantly expanding my knowledge. Whether it's developing applications, exploring algorithms, or learning new technologies, I'm always looking for opportunities to grow as a developer.
+💙 Passionate about **Software Engineering, Artificial Intelligence, Mathematics, and Innovation**
 
-My goal is to become a software engineer who creates technology that has a real impact on people's lives.
+🎮 I enjoy creating software that combines **logic, creativity, and problem-solving**.
 
----
-
-## 🏆 Achievements
-
-🏅 PCEP – Certified Entry-Level Python Programmer
-
-🎤 Presenter at the **18th Student Conference of Informatics (NOESIS)**
-
-🎮 Developed an independent educational game using **C#**
-
-📚 Academic Excellence (19.7/20 GPA)
-
-🎙️ Public Speaking Certificate
-
-👥 Leadership experience through student initiatives and class representation
+🌱 Every project is an opportunity to learn something new.
 
 ---
 
-## 💻 Technologies & Tools
+# 🏆 Achievements
 
-<p align="left">
+- 🥇 **PCEP – Certified Entry-Level Python Programmer**
+- 🎤 Presenter at the **18th Student Conference of Informatics (NOESIS)**
+- 🎮 Developed an educational game using **C#**
+- 📚 Academic Excellence — **19.7/20 GPA**
+- 🎙️ Public Speaking Certificate
+- 👥 Leadership experience through student initiatives
 
+---
+
+# 💻 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,github,vscode,visualstudio" />
-
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced Python
-- C#
-- C++
-- Data Structures & Algorithms
 - Software Engineering
+- Data Structures & Algorithms
 - Artificial Intelligence
+- Advanced Python
 - Object-Oriented Programming
 - Git & GitHub
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Project
 
-### 🎮 Educational Game
-A C# educational game designed to make learning interactive and enjoyable while strengthening programming and software design skills.
+### 🎮 Educational Programming Game
 
-*(More exciting projects coming soon!)*
+An educational game developed in **C#** to make programming concepts more engaging and interactive for students.
+
+> More exciting projects are coming soon!
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 - ✅ Publish high-quality open-source projects
 - ✅ Master advanced programming concepts
 - ✅ Build software that solves real-world problems
-- ✅ Learn AI and Machine Learning
-- ✅ Contribute to the developer community
+- ✅ Learn Artificial Intelligence
+- ✅ Contribute to open-source communities
 - ✅ Continue growing as a software engineer
 
 ---
-## 📊 GitHub Stats
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrysovalantouGaniti&show_icons=true&theme=github_dark&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&theme=github_dark" height="170"/>
-</p>
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysovalantouGaniti&theme=tokyo-night"/>
-
 </p>
+
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
 🇬🇷 Greek — Native
 
-🇬🇧 English — Cambridge B2 • Michigan ECPE (C2)
+🇬🇧 English — Cambridge Lower (B2), Michigan ECPE (C2)
 
 🇩🇪 German — ÖSD A2
 
 ---
 
-## 💡 Philosophy
+# 💭 Favorite Quote
 
-> *"Success isn't about knowing everything—it's about never stopping learning."*
-
-I believe curiosity, consistency, and hard work are the foundations of every great engineer.
+> *"The best way to predict the future is to create it."* — Alan Kay
 
 ---
 
-### 📫 Let's Connect!
+# 📫 Let's Connect
 
-Feel free to explore my repositories, follow my journey, or collaborate on exciting projects.
+⭐ Thanks for visiting my profile!
 
-⭐ **Every project is another step toward becoming the engineer I aspire to be.**
+I'm always excited to learn, build, and share new projects.
