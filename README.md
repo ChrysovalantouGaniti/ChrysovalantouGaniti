@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=4EA1FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;PCEP+Certified+Python+Programmer;Building+Projects+One+Commit+at+a+Time;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
 <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Chrysovalantou Ganiti</h1>
