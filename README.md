@@ -75,16 +75,13 @@ A C# educational game designed to make learning interactive and enjoyable while 
 - ✅ Continue growing as a software engineer
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrysovalantouGaniti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrysovalantouGaniti&show_icons=true&theme=github_dark&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&theme=github_dark" height="170"/>
 </p>
+
 
 ## 📈 Contribution Graph
 
