@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ChrysovalantouGaniti&style=for-the-badge&color=blue"/>
+</p>
 <h1 align="center">Hi 👋, I'm Chrysovalantou Ganiti</h1>
 
 <p align="center">
