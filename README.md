@@ -109,3 +109,233 @@ This is where I share my learning journey, programming projects, and the ideas I
 If you enjoyed exploring my work, feel free to follow my journey as I continue learning and creating.
 
 Happy coding! 🚀
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=220&section=header&text=Chrysovalantou%20Ganiti&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+
+# 👋 Welcome to my GitHub!
+
+### 💻 Student Developer • 🧬 Future Computational Biology Explorer • 🤖 AI & Technology Enthusiast
+
+<p>
+<img src="https://img.shields.io/badge/Building-With%20Code-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-Biology%20%2B%20Technology-6B7D3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dreaming-Scientific%20Innovation-0F4C81?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🌿 About Me
+
+Hello! I'm **Chrysovalantou Ganiti**, a student developer passionate about combining **technology, science, and creativity** to create solutions that can make a positive impact.
+
+I believe that the most powerful innovations happen when different fields come together.
+
+My passion is not only programming — I am fascinated by **biology, life sciences, and the possibilities created when biology meets computer science**.
+
+🧬 My vision is to explore the connection between:
+
+💻 Programming
+🧬 Biology & Genetics
+🤖 Artificial Intelligence
+🔬 Scientific Research
+💊 Future Medicine
+
+I want to contribute to a future where technology helps humanity by improving healthcare, discovering new approaches to medicine, and creating solutions that make the world better.
+
+> "The future belongs to those who connect knowledge from different worlds."
+
+---
+
+# 🧠 My Interests
+
+🌿 Software Development
+🎮 Game Development
+🤖 Artificial Intelligence
+🔐 Cybersecurity
+🧬 Computational Biology
+🧪 Biotechnology
+💊 Medical Innovation
+🚀 Technology for Social Impact
+
+---
+
+# 🧬 Future Vision
+
+My long-term goal is to work at the intersection of **biology and technology**.
+
+I dream of using programming and artificial intelligence to help solve some of the biggest challenges in healthcare.
+
+Areas that inspire me:
+
+🧬 Understanding biological systems through technology
+🤖 Using AI for scientific discoveries
+💊 Developing advanced and personalized medical solutions
+🔬 Supporting research through computational tools
+🌍 Creating innovations that improve people's lives
+
+I believe that the next generation of breakthroughs will come from people who can combine science, engineering, and creativity.
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs"/>
+
+<br><br>
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=unity,git,github,visualstudio"/>
+
+<br><br>
+
+## Exploring
+
+<img src="https://skillicons.dev/icons?i=ai,linux"/>
+
+</div>
+
+---
+
+# 🚀 Featured Project
+
+## 🎮 Trapped Inside The Code
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Unity%202D-Educational%20Game-6B7D3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Created-With%20C%23-0F4C81?style=for-the-badge"/>
+
+</div>
+
+**Trapped Inside The Code** is an educational 2D platformer game created to make programming concepts more interactive and enjoyable.
+
+The project combines:
+
+🎮 Game Development
+💻 Programming Education
+🤖 Artificial Intelligence Concepts
+🔐 Cybersecurity Awareness
+
+### ✨ Features
+
+✅ Five educational levels
+✅ Programming challenges and puzzles
+✅ Python learning concepts
+✅ Interactive missions
+✅ Developed using Unity and C#
+
+Presented at the **Student Informatics Conference at NOESIS**, showcasing how technology can transform learning.
+
+---
+
+# 🏆 Achievements
+
+| 🏅 Achievement             | 🌟 Description                                  |
+| -------------------------- | ----------------------------------------------- |
+| 🎮 Game Creator            | Developed an educational Unity game             |
+| 💻 Programmer              | Created projects using Python, C++, and C#      |
+| 🏛️ Conference Participant | Presented technology projects at student events |
+| 🧠 Continuous Learner      | Exploring AI, biology, and advanced computing   |
+
+---
+
+# 📚 Currently Learning
+
+🌱 Improving software development skills
+🤖 Exploring Artificial Intelligence
+🧬 Learning more about biology and computational approaches
+🔐 Studying cybersecurity concepts
+🎮 Creating interactive applications
+
+---
+
+# 🧭 My Journey
+
+```text
+💻 Programming
+      |
+      ↓
+🎮 Creating Digital Experiences
+      |
+      ↓
+🤖 Exploring Artificial Intelligence
+      |
+      ↓
+🧬 Connecting Biology & Technology
+      |
+      ↓
+🌍 Building Innovations For A Better Future
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChrysovalantouGaniti&show_icons=true&hide_border=true&title_color=0F4C81&icon_color=6B7D3C&text_color=333333"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysovalantouGaniti&layout=compact&hide_border=true&title_color=0F4C81&text_color=333333"/>
+
+</div>
+
+---
+
+# 💙 Let's Connect!
+
+I love meeting people who are passionate about:
+
+💻 Technology
+🧬 Science
+🤖 Artificial Intelligence
+🚀 Innovation
+
+Whether you want to discuss ideas, projects, programming, or the future of technology — feel free to say hello!
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub-ChrysovalantouGaniti-0F4C81?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br>
+
+✨ Let's create something meaningful together! ✨
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌿 Thank you for visiting my profile 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B7D3C&height=120&section=footer"/>
+
+</div>
+
+
+
+
+
+
+
