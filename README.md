@@ -5,11 +5,7 @@
   <b>🚀 Aspiring Software Engineer • 🐍 PCEP Certified Python Programmer • 🎮 C# Developer • 🎤 Student Conference Presenter</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ChrysovalantouGaniti">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Software.;Always+Learning.;Building+Projects.;Future+Computer+Scientist." alt="Typing SVG" />
-  </a>
-</p>
+
 
 ---
 
@@ -267,26 +263,6 @@ Presented at the **Student Informatics Conference at NOESIS**, showcasing how te
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysovalantouGaniti&theme=tokyo-night"/>
 </p>
----
-
-# 🧭 My Journey
-
-```text
-💻 Programming
-      |
-      ↓
-🎮 Creating Digital Experiences
-      |
-      ↓
-🤖 Exploring Artificial Intelligence
-      |
-      ↓
-🧬 Connecting Biology & Technology
-      |
-      ↓
-🌍 Building Innovations For A Better Future
-```
-
 ---
 
 
