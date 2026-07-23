@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=180&section=header&text=Chrysovalantou%20Ganiti&fontSize=40&fontColor=ffffff"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=120&section=footer"/>
 <h1 align="center">Hi 👋, I'm Chrysovalantou Ganiti</h1>
 
 <p align="center">
